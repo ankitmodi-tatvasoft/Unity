@@ -9,6 +9,7 @@ namespace UnitOfWorkExample.Entity
 {
     public class Customer : IEntity
     {
+
         private int _CustomerCode = 0;
         public int Id
         {
